@@ -8,4 +8,4 @@ print(" ------------------------------------------------")
 print("Hello")
 
 name = input("What is your name ? " )
-print("Goodbye" + name)
+print("Goodbye " + name)
