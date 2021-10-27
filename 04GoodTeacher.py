@@ -6,7 +6,7 @@ print("|    Version : 01                                |")
 print("|                                                |")
 print(" ------------------------------------------------")
 
-name = input("Teacher name(try Mr Horan) " )
+name = input("Teacher name (try Mr Horan) " )
 if name == "Mr Horan":
     print ("You are lucky, he is a great teacher.")
 else:
